@@ -17,7 +17,7 @@ const Footer = () => {
           
           <div className="flex gap-4">
             <a
-              href="https://github.com/yourusername"
+              href="https://github.com/abdulrehman03125"
               target="_blank"
               rel="noopener noreferrer"
               className="text-secondary hover:text-white transition-colors"
@@ -25,7 +25,7 @@ const Footer = () => {
               GitHub
             </a>
             <a
-              href="https://linkedin.com/in/yourusername"
+              href=""
               target="_blank"
               rel="noopener noreferrer"
               className="text-secondary hover:text-white transition-colors"
@@ -33,7 +33,7 @@ const Footer = () => {
               LinkedIn
             </a>
             <a
-              href="mailto:your.email@example.com"
+              href="chrahman0312@gmail.com"
               className="text-secondary hover:text-white transition-colors"
             >
               Email
